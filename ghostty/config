@@ -1,0 +1,18 @@
+theme = "Flexoki Light"
+font-family = "Iosevka Term"
+font-size = 12
+
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = true
+cursor-style=block
+adjust-cell-height=35%
+mouse-scroll-multiplier = 2
+window-colorspace = "display-p3"
+copy-on-select = clipboard
+window-padding-balance = true
+window-save-state = always
+macos-titlebar-style = transparent
+background-opacity = 0.9
+background-blur = 95
+
